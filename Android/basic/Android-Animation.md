@@ -93,6 +93,8 @@ animationDrawable.start();
 说的就是这个效果：<br/>
 ![所有动画放在一张png中](https://github.com/HIT-Alibaba/interview/blob/master/img/android-animation-onepng.jpg?raw=true)
 animation.xml的配置：
+
+
 ```
 <key>010001.png</key>
 <dict>
@@ -118,8 +120,8 @@ animation.xml的配置：
     <key>sourceSize</key>
     <string>{500, 260}</string>
 </dict>
-…
 ```
+
 其中：
 
 + frame 指定在原图中截取的框大小；
