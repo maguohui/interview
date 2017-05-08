@@ -21,8 +21,8 @@
             "theme": "default"
         },
         "donate": {
-        	"wechat": "https://zhangjikai.com/resource/weixin.png",
-        	"alipay": "https://zhangjikai.com/resource/alipay.png",
+        	"wechat": "https://raw.githubusercontent.com/maguohui/interview/master/img/donate/wechat.PNG",
+        	"alipay": "https://raw.githubusercontent.com/maguohui/interview/master/img/donate/alipay.PNG",
         	"title": "",
         	"button": "赏",
         	"alipayText": "支付宝打赏",

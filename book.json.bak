@@ -11,7 +11,7 @@
    		 ],
     		"pluginsConfig": {
     		"github": {
-      		"url": "https://github.com/zhaoda/webpack-handbook"
+      		"url": "https://github.com/maguohui/interview"
     		},
     		"baidu": {
         	"token": "a9787f0ab45d5e237bab522431d0a7ec"
